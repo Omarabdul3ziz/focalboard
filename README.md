@@ -61,3 +61,4 @@ If you are going to modify the helm charts, it is helpful to use `--dry-run` (do
 Helm has partial support for pulling values out of a subchart via the requirements.yaml. It also has limited support for pushing values into subcharts. It does not support using templating inside a values.yaml file.
 
 We recommend using [kind](https://github.com/kubernetes-sigs/kind) for local development if you do not have access to Kubernetes cluster running in the cloud.# focalboard
+# focalboard
